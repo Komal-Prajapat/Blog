@@ -1,0 +1,19 @@
+#about{
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+
+}
+#logo{
+    font-family:Arial,;
+}
+footer{
+    background: #000;
+    width: 100%;
+    height: 100px;
+}
+.card:hover{
+    transform: scale(1.1);
+    color: cyan;
+    background-color:  #FF1168;
+}
